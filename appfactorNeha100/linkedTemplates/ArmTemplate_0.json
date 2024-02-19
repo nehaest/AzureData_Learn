@@ -41,7 +41,7 @@
 						"typeProperties": {
 							"method": "GET",
 							"headers": {},
-							"url": "https://mydatalake111.blob.core.windows.net/csv/Log.csv"
+							"url": "https://mydatalake111.blob.core.windows.net/parquet/Log.parquet"
 						}
 					}
 				],
