@@ -1,6 +1,7 @@
 {
 	"name": "datacopy",
 	"properties": {
+		"description": "Test ADF code",
 		"activities": [
 			{
 				"name": "Copy data1",
